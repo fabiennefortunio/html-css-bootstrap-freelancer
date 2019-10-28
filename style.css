@@ -3,13 +3,16 @@
 /**[class^="col-lg"]{
     background-color: red;
     height: 50px;**/
-}
+
 
 /**.navbar-light {
     : #2c3e50;
 }**/
+
+.col-lg-12 {
+    background-color: #2b3e50;
 }
-.bg-light{
+.bg-light {
     background-color: red;
 }
 
