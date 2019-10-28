@@ -8,15 +8,11 @@
 /**.navbar-light {
     : #2c3e50;
 }**/
-
-.container {
-    box-sizing: border-box;
 }
+.bg-light{
+    background-color: red;
+}
+
 img {
     width: 250px;
-}
-
-.align-items-center {
-    align-items:
-
 }
