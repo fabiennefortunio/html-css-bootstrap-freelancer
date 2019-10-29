@@ -8,6 +8,10 @@
 /**.navbar-light {
     : #2c3e50;
 }**/
+.container {
+    max-width: 1000px 487px;
+    padding: 64px;
+}
 
 .col-lg-12 {
     background-color: #2b3e50;
